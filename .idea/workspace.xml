@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d54601ce-6f11-406c-abf3-902547dd7f30" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1029" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectId" id="1U410t7vKKxgYkCwpYMJUmncHwl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d54601ce-6f11-406c-abf3-902547dd7f30" name="Default Changelist" comment="" />
+      <created>1565362181773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565362181773</updated>
+      <workItem from="1565362183621" duration="13699000" />
+      <workItem from="1565377340064" duration="393000" />
+      <workItem from="1565377790752" duration="425000" />
+      <workItem from="1565420488527" duration="8040000" />
+      <workItem from="1574600835477" duration="901000" />
+      <workItem from="1574601788484" duration="127000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1565377546394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565377546394</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update2">
+      <created>1565377954863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565377954863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update3; test arrays added">
+      <created>1565422031879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565422031879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update4; optimized code">
+      <created>1565423962224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565423962224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update2" />
+    <MESSAGE value="update3; test arrays added" />
+    <MESSAGE value="update4; optimized code" />
+    <option name="LAST_COMMIT_MESSAGE" value="update4; optimized code" />
+  </component>
+</project>
